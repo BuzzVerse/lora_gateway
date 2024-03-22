@@ -1,4 +1,4 @@
-name: Standalone
+name: Standalone ARM
 
 on:
   push:
