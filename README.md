@@ -1,3 +1,8 @@
+[![Tests](https://github.com/BuzzVerse/lora_gateway/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/BuzzVerse/lora_gateway/actions/workflows/tests.yml)
+[![Standalone ARM](https://github.com/BuzzVerse/lora_gateway/actions/workflows/standalone-arm.yml/badge.svg?branch=main)](https://github.com/BuzzVerse/lora_gateway/actions/workflows/standalone-arm.yml)
+[![Standalone](https://github.com/BuzzVerse/lora_gateway/actions/workflows/standalone.yml/badge.svg)](https://github.com/BuzzVerse/lora_gateway/actions/workflows/standalone.yml)
+[![Style](https://github.com/BuzzVerse/lora_gateway/actions/workflows/style.yml/badge.svg?branch=main)](https://github.com/BuzzVerse/lora_gateway/actions/workflows/style.yml)
+
 # LoRa gateway
 
 Buzzverse gateway is an advanced LoRa base station designed for long-range wireless communication using LoRa modulation. It supports multiple LoRa modems, enabling simultaneous handling of multiple communication channels. Tailored for IoT applications, it facilitates secure and efficient data exchange between devices and external services through encryption and MQTT protocol. With its modular architecture and flexibility, it's an ideal solution for research projects, environmental monitoring, smart cities, and more.
