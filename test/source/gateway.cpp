@@ -13,6 +13,6 @@ TEST_CASE("Gateway") {
 }
 
 TEST_CASE("Gateway version") {
-  static_assert(std::string_view(GATEWAY_VERSION) == std::string_view("1.0"));
-  CHECK(std::string(GATEWAY_VERSION) == std::string("1.0"));
+  static_assert(std::string_view(GATEWAY_VERSION) == std::string_view("0.1"));
+  CHECK(std::string(GATEWAY_VERSION) == std::string("0.1"));
 }
