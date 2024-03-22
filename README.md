@@ -2,6 +2,7 @@
 [![Standalone ARM](https://github.com/BuzzVerse/lora_gateway/actions/workflows/standalone-arm.yml/badge.svg?branch=main)](https://github.com/BuzzVerse/lora_gateway/actions/workflows/standalone-arm.yml)
 [![Standalone](https://github.com/BuzzVerse/lora_gateway/actions/workflows/standalone.yml/badge.svg)](https://github.com/BuzzVerse/lora_gateway/actions/workflows/standalone.yml)
 [![Style](https://github.com/BuzzVerse/lora_gateway/actions/workflows/style.yml/badge.svg?branch=main)](https://github.com/BuzzVerse/lora_gateway/actions/workflows/style.yml)
+[![codecov](https://codecov.io/gh/BuzzVerse/lora_gateway/graph/badge.svg?token=Q3EKKDA5UT)](https://codecov.io/gh/BuzzVerse/lora_gateway)
 
 # LoRa gateway
 
