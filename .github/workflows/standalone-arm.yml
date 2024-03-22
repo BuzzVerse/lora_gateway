@@ -29,7 +29,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y gcc-arm-linux-gnueabihf g++-arm-linux-gnueabihf
 
       - name: Configure for Cross-Compilation
-        run: cmake -S standalone -B build-beaglebone -DCMAKE_TOOLCHAIN_FILE=../cmake/toolchain-beaglebone.cmake
+        run: cmake -S standalone -B build -DCMAKE_TOOLCHAIN_FILE=../cmake/toolchain-beaglebone.cmake
 
       - name: Build
         run: cmake --build build -j4
