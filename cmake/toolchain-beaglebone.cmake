@@ -6,8 +6,8 @@ set(CMAKE_SYSTEM_PROCESSOR arm)
 set(CMAKE_C_COMPILER arm-linux-gnueabihf-gcc)
 set(CMAKE_CXX_COMPILER arm-linux-gnueabihf-g++)
 
-# Where to find the target environment (specific libraries etc)
-#set(CMAKE_FIND_ROOT_PATH /path/to/your/beaglebone/sysroot)
+# Where to find the target environment (specific libraries etc) set(CMAKE_FIND_ROOT_PATH
+# /path/to/your/beaglebone/sysroot)
 
 # Search for programs in the build host directories
 set(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM NEVER)

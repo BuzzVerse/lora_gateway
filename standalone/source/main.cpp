@@ -6,7 +6,6 @@
 #include <string>
 
 auto main(int argc, char** argv) -> int {
-  
   cxxopts::Options options(*argv, "LoRa gateway application");
 
   std::string name;

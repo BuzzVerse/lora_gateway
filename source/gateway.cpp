@@ -5,6 +5,4 @@ using namespace gateway;
 
 Gateway::Gateway(std::string _name) : name(std::move(_name)) {}
 
-std::string Gateway::test() const {
-    return fmt::format("Hello, {}!", name);
-}
+std::string Gateway::test() const { return fmt::format("Hello, {}!", name); }
